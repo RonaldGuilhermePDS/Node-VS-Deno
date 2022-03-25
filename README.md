@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Node VS Deno</h2>
+<h2 align="center">Node + Koa VS Deno + Oak</h2>
 <p align="center">
 Differences between Node + Koa and Deno + Oak
 </p>
